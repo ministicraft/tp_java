@@ -7,5 +7,6 @@ public class Principal {
       MaClasse mc;
       mc = new MaClasse();
      //MaClasse mc = new MaClasse();
+     mc.maMethode(annee);
    }
 }
